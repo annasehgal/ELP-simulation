@@ -6,4 +6,6 @@ Liu, Chung Laung, and James W. Layland. "Scheduling algorithms for multiprogramm
 
 The dzanga_python.py version was created by ChatGPT when prompted to create a Python translation of the MATLAB.
 
-The 
+The elephant_acoustic_sim.py was created by Claude when prompted to create a Python translation of the MATLAB.
+
+Subsequent Reinforcement Learning, Monte Carlo, and parallel versions were also generated using ChatGPT with prompts to add these features to the Python translation, which was tested at black-box level only.
